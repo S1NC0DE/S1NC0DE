@@ -1,6 +1,6 @@
 - 👋 Hi, I’m s1nc0de
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning ReactJS 
 - 💞️ I’m looking to collaborate on Web App
 - 📫 Reach me @https://s1nc0de.github.io/Jayant-Singh/
 
